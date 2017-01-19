@@ -1,2 +1,1 @@
-# restful.ru
-[restful.ru] source codes
+# [restful.ru](http://restful.ru) source codes

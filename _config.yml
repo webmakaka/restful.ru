@@ -1,0 +1,14 @@
+# Site settings
+title: restful.ru
+description: restful
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://restful.ru" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+
+# analytics
+google_analytics: "UA-4894954-42"
