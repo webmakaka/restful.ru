@@ -10,6 +10,15 @@ permalink: /
 
 <br/><br/>
 
+
+<br/>
+
+### Angular
+
+https://github.com/DanWahlin/Angular-RESTfulService
+
+
+
 ### Пример реализации RESTFul на Python
 
 
