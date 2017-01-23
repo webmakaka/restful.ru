@@ -18,6 +18,7 @@ permalink: /
 https://github.com/DanWahlin/Angular-RESTfulService
 
 
+<br/>
 
 ### Пример реализации RESTFul на Python
 
