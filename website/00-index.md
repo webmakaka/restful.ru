@@ -13,6 +13,13 @@ permalink: /
 
 <br/>
 
+### What Is A RESTful API? Explanation of REST & HTTP
+
+https://www.youtube.com/watch?v=Q-BpqyOT3a8
+
+
+<br/>
+
 ### Angular
 
 https://github.com/DanWahlin/Angular-RESTfulService
