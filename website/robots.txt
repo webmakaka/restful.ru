@@ -5,4 +5,4 @@ permalink: robots.txt
 
 User-agent: *
 Allow: /
-Host: jsdev.org
+Host: restful.ru
