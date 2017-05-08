@@ -6,6 +6,7 @@ permalink: /
 
 # RESTFul
 
+**Примеры RESTFul реализации на:**
 
 <h3>
     <a href="/js/">Java Script (Node.js, Angular, etc.)</a> ||

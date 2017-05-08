@@ -18,7 +18,7 @@ permalink: /js/
 
 <br/>
 
-### Я нашел видеокуср Integrating Angular with Node.js RESTful Services (если я нашел, то ты тоже сможешь найти)
+### Integrating Angular with Node.js RESTful Services (если я нашел, то ты тоже сможешь найти)
 
 UPD. Я начал смотреть. Там есть уже готовый проект и в видео просто рассказывается как это все работает. Не то, что я хотел.
 
