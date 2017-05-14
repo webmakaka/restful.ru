@@ -6,3 +6,4 @@ permalink: robots.txt
 User-agent: *
 Allow: /
 Host: restful.ru
+Sitemap: http://restful.ru/sitemap.xml
