@@ -5,5 +5,5 @@ permalink: robots.txt
 
 User-agent: *
 Allow: /
-Host: restful.ru
-Sitemap: http://restful.ru/sitemap.xml
+Host: https://restful.ru
+Sitemap: https://restful.ru/sitemap.xml
