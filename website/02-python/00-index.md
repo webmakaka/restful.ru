@@ -1,25 +1,17 @@
 ---
 layout: page
-title: RESTFul Python
+title: RESTful Python
 permalink: /python/
 ---
 
-# RESTFul Python
+# RESTful Python
 
 <br/>
 
 http://swapi.co/  
-https://github.com/marley-python/swapi
+https://github.com/phalt/swapi
 
 <br/>
 
 http://pokeapi.co/  
-https://github.com/marley-python/pokeapi
-
-
-Если нужно, сделайте
-
-    $ git clone <ссылка на проект>
-
-
-т.е. на github меня забанили, страница с проектами не отображается.
+https://github.com/PokeAPI/pokeapi

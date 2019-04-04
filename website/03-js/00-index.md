@@ -1,20 +1,10 @@
 ---
 layout: page
-title: RESTFul Java Script (Node.js, Angular, etc.)
+title: RESTful Java Script (Node.js, Angular, etc.)
 permalink: /js/
 ---
 
-# RESTFul Java Script (Node.js, Angular, etc.)
-
-
-<br/>
-
-### [packtpub] RESTful Web API Design with Node.js [Video]
-
-Приступил к просмотру. Видео скачал из интернета. Денег не платил.
-
-
-
+# RESTful Java Script (Node.js, Angular, etc.)
 
 <br/>
 
@@ -25,9 +15,6 @@ UPD. Я начал смотреть. Там есть уже готовый пр�
 Исходные коды ниже.
 
 <a href="https://bitbucket.org/marley-nodejs/restful-angular-nodejs-mongodb" rel="nofollow" target="_blank">Integrating Angular with Node.js RESTful Services</a>
-
-
-
 
 <br/>
 

@@ -1,20 +1,19 @@
 ---
 layout: page
-title: RESTFul
+title: RESTful
 permalink: /
 ---
 
-# RESTFul
+# RESTful
 
 **Примеры RESTFul реализации на:**
 
 <h3>
-    <a href="/js/">Java Script (Node.js, Angular, etc.)</a> ||
+    <a href="/golang/">Golang</a> ||
     <a href="/python/">Python</a> ||
+    <a href="/js/">Java Script (Node.js, Angular, etc.)</a> ||
     <a href="http://ws.javadev.ru">Java</a>
 </h3>
-
-
 
 <br/>
 <br/>
