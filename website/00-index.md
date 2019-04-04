@@ -6,7 +6,7 @@ permalink: /
 
 # RESTful
 
-**Примеры RESTFul реализации на:**
+**Примеры RESTful реализации на:**
 
 <h3>
     <a href="/golang/">Golang</a> ||
