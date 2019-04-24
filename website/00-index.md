@@ -18,6 +18,20 @@ permalink: /
 <br/>
 <br/>
 
+### Работающие RESTFul сервисы для тестов:
+
+<a href="https://restcountries.eu/rest/v2/all" rel="nofollow">REST Countries</a>
+
+<a href="https://jsonplaceholder.typicode.com/" rel="nofollow">jsonplaceholder</a>
+
+<br/>
+
+### Оказывается можно в консоли получать человекочитаемый вывод от RESTFul сервисов
+
+![Restful Python](/img/curl-python.png "Restful Python"){: .center-image }
+
+<br/>
+
 **Буду признателен, за ссылки на проекты с реализацией RESTFul на разных языках.**
 
 <br/>
