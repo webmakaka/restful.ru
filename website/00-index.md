@@ -6,7 +6,29 @@ permalink: /
 
 # RESTful
 
-**Примеры RESTful реализации на:**
+Собственно, почти все что нужно знать.
+
+<br/>
+
+![Restful](/img/pic1.png 'Restful'){: .center-image }
+
+<br/>
+
+![Restful](/img/pic2.png 'Restful'){: .center-image }
+
+<br/>
+
+![Restful](/img/pic3.png 'Restful'){: .center-image }
+
+<br/>
+
+### Приступил к просмотру [Udemy, Brad Traversy] Node.js API Masterclass With Express & MongoDB [2019, ENG]
+
+Если хотите, подключайтесь к группе в телеграм: jsdev_ru
+
+<br/>
+
+### Примеры RESTful реализации на:
 
 <h3>
     <a href="/golang/">Golang</a> ||
@@ -28,7 +50,7 @@ permalink: /
 
 ### Оказывается можно в консоли получать человекочитаемый вывод от RESTFul сервисов
 
-![Restful Python](/img/curl-python.png "Restful Python"){: .center-image }
+![Restful Python](/img/curl-python.png 'Restful Python'){: .center-image }
 
 <br/>
 
@@ -38,4 +60,4 @@ permalink: /
 
 **Marley** <br/>
 
-![Marley](http://img.fotografii.org/a3333333mail.gif "Marley")
+![Marley](/img/a3333333mail.gif 'Marley')
