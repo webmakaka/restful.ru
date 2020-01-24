@@ -20,11 +20,6 @@ permalink: /
 
 ![Restful](/img/pic3.png 'Restful'){: .center-image }
 
-<br/>
-
-### Приступил к просмотру [Udemy, Brad Traversy] Node.js API Masterclass With Express & MongoDB [2019, ENG]
-
-Если хотите, подключайтесь к группе в телеграм: jsdev_ru
 
 <br/>
 
