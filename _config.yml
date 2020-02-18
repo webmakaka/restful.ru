@@ -1,6 +1,8 @@
 # Site settings
 title: restful.ru
-description: restful
+description: Сайт с примерами использования restful приложений 
+keywords: rest, webservices, get, post, set, delete
+
 baseurl: '' # the subpath of your site, e.g. /blog/
 url: 'https://restful.ru' # the base hostname & protocol for your site
 
