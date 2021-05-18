@@ -20,7 +20,6 @@ permalink: /
 
 ![Restful](/img/pic3.png 'Restful'){: .center-image }
 
-
 <br/>
 
 ### Примеры RESTful реализации на:
@@ -46,6 +45,14 @@ permalink: /
 ### Оказывается можно в консоли получать человекочитаемый вывод от RESTFul сервисов
 
 ![Restful Python](/img/curl-python.png 'Restful Python'){: .center-image }
+
+<br/>
+
+### Лекция по Restfull на русском
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/_EmcOWmstko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br/>
 
