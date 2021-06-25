@@ -42,9 +42,41 @@ permalink: /
 
 <br/>
 
-### Оказывается можно в консоли получать человекочитаемый вывод от RESTFul сервисов
+### Получить человекочитаемый вывод от RESTFul сервисов
 
 ![Restful Python](/img/curl-python.png 'Restful Python'){: .center-image }
+
+<br/>
+
+```shell
+$ curl \
+    --data '{
+        "firstCategory": 0
+    }' \
+    --header "Content-Type: application/json" \
+    --request POST https://courses-top.ru/api/top-page/find \
+    | jq
+```
+
+<br/>
+
+jq в ubuntu можно доставить командой apt install.
+
+<br/>
+
+```shell
+$ curl \
+    --data '{
+        "firstCategory": 0
+    }' \
+    --header "Content-Type: application/json" \
+    --request POST https://courses-top.ru/api/top-page/find \
+    | python -m json.tool
+```
+
+<br/>
+
+json.tool - не понимает, кодировки русского языка и вроде как нет параметра, которым можно было бы это все легко поправить.
 
 <br/>
 
