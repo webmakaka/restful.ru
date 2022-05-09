@@ -28,7 +28,8 @@ permalink: /
     <a href="/golang/">Golang</a> ||
     <a href="/python/">Python</a> ||
     <a href="/js/">Java Script (Node.js, Angular, etc.)</a> ||
-    <a href="http://ws.javadev.ru">Java</a>
+    <a href="https://github.com/webmakaka/Full-Stack-Development-with-Spring-Boot-and-React">Java (Spring)</a> ||
+    <a href="/rust/">Rust</a>
 </h3>
 
 <br/>

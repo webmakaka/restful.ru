@@ -10,7 +10,7 @@ permalink: /golang/
 
 <br/>
 
-![Restful Golang Example](/img/restful-golang-example.png "Restful Golang Example"){: .center-image }
+![Restful Golang Example](/img/restful-golang-example.png 'Restful Golang Example'){: .center-image }
 
 <br/>
 
@@ -25,3 +25,9 @@ https://bitbucket.org/marley-golang/rest-golang-simple-example/src/master/
 
 По сути все описано здесь:  
 https://bitbucket.org/marley-golang/rest-golang-simple-example/src/e3a769efbf078ab9dae8055f4305c2462afe3503/main.go
+
+<br/>
+
+### [Udemy, Trevor Sawler] Working with React and Go (Golang) [ENG, 2021]
+
+https://github.com/webmakaka/Working-with-React-and-Go
