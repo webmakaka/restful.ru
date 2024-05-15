@@ -22,7 +22,7 @@ permalink: /
 
 <br/>
 
-### Примеры RESTful реализации на:
+## Примеры RESTful реализации на:
 
 <h3>
     <a href="/golang/">Golang</a> ||
@@ -35,7 +35,7 @@ permalink: /
 <br/>
 <br/>
 
-### Работающие RESTFul сервисы для тестов:
+## Работающие RESTFul сервисы для тестов:
 
 <a href="https://restcountries.eu/rest/v2/all" rel="nofollow">REST Countries</a>
 
@@ -43,9 +43,11 @@ permalink: /
 
 <br/>
 
-### Получить человекочитаемый вывод от RESTFul сервисов
+## Получить человекочитаемый вывод от RESTFul сервисов
 
-![Restful Python](/img/curl-python.png 'Restful Python'){: .center-image }
+<br/>
+
+### С использованием jq
 
 <br/>
 
@@ -61,7 +63,17 @@ $ curl \
 
 <br/>
 
-jq в ubuntu можно доставить командой apt install.
+jq в ubuntu можно доставить командой
+
+<br/>
+
+```
+$ sudo apt install -y jq
+```
+
+<br/>
+
+### С использованием python -m json.tool
 
 <br/>
 
@@ -77,11 +89,11 @@ $ curl \
 
 <br/>
 
-json.tool - не понимает, кодировки русского языка и вроде как нет параметра, которым можно было бы это все легко поправить.
+json.tool - испытывает проблемы с кодировками русского языка
 
 <br/>
 
-### Лекция по Restfull на русском
+## Лекция по Restfull на русском
 
 <div align="center">
     <iframe width="853" height="480" src="https://www.youtube.com/embed/_EmcOWmstko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
